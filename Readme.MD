@@ -1,0 +1,1 @@
+Тестирование докерного PostgreSQL + приложение Flask на Python
